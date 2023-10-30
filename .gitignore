@@ -1,5 +1,5 @@
 .vscode
-
+datasets/*
 # ignored files
 version.py
 
